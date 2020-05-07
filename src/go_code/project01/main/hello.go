@@ -15,6 +15,8 @@
 // 运行 xxx.exe 
 
 //注意:go run 命令可以直接执行xxx.go 程序,(类似执行一个脚本文件)
+
+
 package main
 import "fmt"
 
